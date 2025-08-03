@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/b1aebf33-c293-4301-a8fc-210e04401646)
+
 Living Geometry Theory (LGT)  
 *A Unified Framework for Self-Regulating Spacetime and Cosmic Consciousness*  
 
