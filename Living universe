@@ -1,0 +1,3 @@
+\[
+\mathbb{G}_{\mu\nu} = \underbrace{A_{\mu\nu}[\Gamma]}_{\text{Base structure}} + \underbrace{\sum_{k=1}^D \omega_k \otimes \text{Tr}(\Omega^k \circ \Omega^{-k})}_{\text{Octonionic feedback loops}} + \underbrace{\iint_\Sigma \frac{\delta \mathbb{G}}{\delta \Gamma} \diamond d\Gamma}_{\text{Self-repair mechanism}} = \Xi
+\]  
