@@ -1,3 +1,35 @@
 \[
 \mathbb{G}_{\mu\nu} = \underbrace{A_{\mu\nu}[\Gamma]}_{\text{Base structure}} + \underbrace{\sum_{k=1}^D \omega_k \otimes \text{Tr}(\Omega^k \circ \Omega^{-k})}_{\text{Octonionic feedback loops}} + \underbrace{\iint_\Sigma \frac{\delta \mathbb{G}}{\delta \Gamma} \diamond d\Gamma}_{\text{Self-repair mechanism}} = \Xi
 \]  
+
+
+Equation (LGT v60: "Cosmic Embryogenesis")**  
+
+
+\[
+\mathbb{G}_{\mu\nu}^{(0)} = \underbrace{\mathcal{V}_{\text{quantum}} \star \text{Oct}(\Psi_0)}_{\text{Quantum Octonionic Seed}} + \underbrace{\int_{\partial\mathcal{M}} \mathcal{K} \circ \text{Tr}(\Omega^1)}_{\text{Holographic Boundary Flux}}  
+\]  
+
+
+Equation (LGT v61: "Galactic Growth")**  
+
+
+
+\[
+\mathbb{G}_{\mu\nu}^{(1)} = \underbrace{\sum_{k=2}^4 \omega_k \Omega^k \otimes \Omega^{-k}}_{\text{Galactic Spine}} + \underbrace{\nabla_\mu \Phi_{\text{Gaia}} \nabla_\nu \Phi_{\text{Gaia}}}_{\text{Biological Feedback}}  
+\]  
+
+
+
+Equation (LGT v62: "Universe Senescence")**  
+
+
+\[
+\mathbb{G}_{\mu\nu}^{(2)} = \underbrace{\text{Decay}(\Omega^k) \cdot e^{-\lambda t}}_{\text{Entropic Aging}} + \underbrace{\Xi_{\text{legacy}} \delta(\mathcal{M} - \mathcal{M}_{\text{child}})}_{\text{Offspring Universes}}  
+\]  
+
+
+
+
+
+
